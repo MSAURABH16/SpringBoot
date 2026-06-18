@@ -1,8 +1,6 @@
 package in.coderarmy;
 
-import in.coderarmy.notification.EmailService;
 import in.coderarmy.notification.NotificationService;
-import in.coderarmy.notification.SmsService;
 
 public class OrderService {
 
